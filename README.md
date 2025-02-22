@@ -44,10 +44,10 @@
 <h2>Stopping the Attack</h2>
 <p>To stop the ARP spoofing attack, press <strong>CTRL+C</strong>.</p>
 
-<h2>📬 Contact</h2>
+<h2>Contact</h2>
 <p>For any inquiries or contributions, feel free to reach out!</p>
 
 <ul>
-  <li>Author: Acapella</li>
-  <li>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
+  <li>Author: acapella1030</li>
+  <li>GitHub: <a href="https://github.com/acapella1030" target="_blank">acapella1030</a></li>
 </ul>
